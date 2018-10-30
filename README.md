@@ -1,1 +1,2 @@
 # Rest Jax-rs
+# Skeleton
